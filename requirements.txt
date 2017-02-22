@@ -1,0 +1,5 @@
+# Required packages for readthedocs.io
+
+sphinx>=1.4
+ipykernel
+nbsphinx
