@@ -22,8 +22,7 @@ Jupyterを起動するためにコマンドプロンプトを実行する。
 を入力しEnterを押す方法が簡単である。
 
 .. image:: figs/fig_python_install/Anaconda_launch1.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate launch cmmand prompt
    :align: center
 
@@ -32,16 +31,14 @@ Jupyterを起動するためにコマンドプロンプトを実行する。
 を入力し実行するとJupyter-notebookのスタート画面が立ち上がる。
 
 .. image:: figs/fig_python_install/Anaconda_launch2.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate launch cmmand prompt2
    :align: center
 
 コマンドプロンプト内で「Jupyter-notebook」と入力し実行する。
 
 .. image:: figs/fig_python_install/Anaconda_launch3.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate launch jupyter
    :align: center
 
@@ -58,8 +55,7 @@ Jupyer-notebookファイルの作成
 右上の`new`メニューの中の ``Folder`` をクリックすると、Untitled Folderという名前のフォルダが作成される。
 
 .. image:: figs/fig_python_install/Jupyter_new_folder.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter new folder
    :align: center
 
@@ -69,14 +65,12 @@ Jupyer-notebookファイルの作成
 ファイル名を ``Johokiso-enshu`` としよう。
 
 .. image:: figs/fig_python_install/Jupyter-launch1.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter launch
    :align: center
 
 .. image:: figs/fig_python_install/Jupyter_rename_folder.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter launch
    :align: center
 
@@ -87,8 +81,7 @@ Jupyer-notebookファイルの作成
 ``New`` ボタンから ``Python [root]`` を起動する。
 
 .. image:: figs/fig_python_install/Jupyter_new_note.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter launch
    :align: center
 
@@ -105,16 +98,14 @@ Jupyerロゴの横のUntitledをクリックすることで名を変更できる
 今日はプログラミング1回目なので Programming1-start とする。
 
 .. image:: figs/fig_python_install/Jupyter_launch2.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter launch
    :align: center
 
 Jupyter-notebookで新しいPythonノートブックファイルを作成したときの様子。
 
 .. image:: figs/fig_python_install/Jupyter1.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter launch
    :align: center
 
@@ -134,8 +125,7 @@ Jupyter-notebookでの対話的プログラミング
 エラーなく実行される場合、``Hello world`` とセルの下に表示されるはずである。
 
 .. image:: figs/figs_jupyter_start/helloworld.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter launch
    :align: center
 
@@ -143,8 +133,7 @@ Jupyter-notebookでの対話的プログラミング
 このような場合は、再度正しいスクリプトを入力し、実行する。
 
 .. image:: figs/figs_jupyter_start/helloworld_error.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter launch
    :align: center
 
@@ -157,8 +146,7 @@ Jupyter-notebookでの対話的プログラミング
 次に、以下のように一連の命令を実行してみよう。
 
 .. image:: figs/figs_jupyter_start/python_start.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: python start
    :align: center
 
@@ -173,8 +161,7 @@ Jupyter-notebookのセルには、Code, Markdown、Raw NBConvertの3状態があ
 これは、画面上部メニューの ``Cell`` > ``Cell Type`` から設定できる。
 
 .. image:: figs/figs_jupyter_start/cell_type.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter launch
    :align: center
 
@@ -187,8 +174,7 @@ Markdown状態も、後でノートブックの内容を理解するために重
 Markdownセルを作成し、以下と同じ内容を記入して実行してみよ。
 
 .. image:: figs/figs_jupyter_start/markdown.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter launch
    :align: center
 

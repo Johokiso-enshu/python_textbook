@@ -22,8 +22,7 @@ Pythonにはバージョン2系統のものと3系統のものがあるが、
 最新のものである3系統のもの（図ではPython3.5）をダウンロードすること。
 
 .. image:: figs/fig_python_install/Anaconda_download.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: anaconda download
    :align: center
 
@@ -41,32 +40,28 @@ Anacondaのインストール
 インストーラにはいくつか質問されるが、よくわからなければデフォルトのままでよい。
 
 .. image:: figs/fig_python_install/Anaconda_install.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: anaconda install
    :align: center
 
 ダウンロードした場所をエクスプローラで開き、ファイルを実行する。
 
 .. image:: figs/fig_python_install/Anaconda_install2.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter launch
    :align: center
 
 インストーラを実行した時の様子。
 
 .. image:: figs/fig_python_install/Anaconda_install3.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter launch
    :align: center
 
 インストールには少し時間がかかる。
 
 .. image:: figs/fig_python_install/Anaconda_install5.png
-   :width: 480 pt
-   :scale: 50 %
+   :width: 50%
    :alt: alternate jupyter launch
    :align: center
 
