@@ -1,4 +1,11 @@
-# 情報基礎演習［工学部］
+# Python textbook
+
+[![Documentation Status](https://readthedocs.org/projects/python-textbook/badge/?version=latest)](http://python-textbook.readthedocs.io/en/latest/?badge=latest)
+
+情報基礎演習［工学部］のプログラミングパートで用いる教科書を入れておくリポジトリです。
+こちらをご覧ください。
+[http://python-textbook.readthedocs.io/en/latest/](http://python-textbook.readthedocs.io/en/latest/)
+
 
 <!--　# 数値計算入門
 今後の実験データ解析や物理シミュレーションなど、数値計算を行うための基礎的知識を身につける。
