@@ -1,0 +1,9 @@
+# sphinx build directory.
+_build/
+_static/
+_templates/
+
+# ipython notebook checkpoint
+.ipynb_checkpoints/
+
+*~
