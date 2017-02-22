@@ -6,13 +6,12 @@ PythonやJupyterは現在は京都大学の教育用教PC端末で用いるこ�
 各自のPCにもインストールしておくことを勧める。
 
 本章ではWindowsへのインストール方法を述べるが、OS XやLinux等で用いる場合は
-
 次のページを参考にすること。 https://www.continuum.io/downloads
 
 Anacondaのダウンロード
 --------------------
 
-Anacondは無料かつオープンソース（ソースコードが公開されていること）のソフトウェアであり
+Anacondaは無料かつオープンソース（ソースコードが公開されていること）のソフトウェアであり
 
 https://www.continuum.io/downloads
 から自由にダウンロードできる。
