@@ -26,16 +26,30 @@ Jupyterを起動するためにコマンドプロンプトを実行する。
    :alt: alternate launch cmmand prompt
    :align: center
 
+
+京都大学サテライト端末での起動
+---------------------------
+
+京都大学のサテライト端末ではユーザがファイルを保存できる領域はMドライブに割り当てられている。
+コマンドプロンプトはCドライブから起動するので、Mドライブに移動する必要がある。
+以下のコマンドを入力し、Mドライブに移動すること。 :
+
+  cd /d M:
+
+.. image:: figs/figs_jupyter_start/cmd_jupyter.png
+   :width: 50%
+   :alt: change drive in windows cmd.
+   :align: center
+
+
 起動させたコマンドプロンプトで
 ``jupyter-notebook``
 を入力し実行するとJupyter-notebookのスタート画面が立ち上がる。
 
-.. image:: figs/fig_python_install/Anaconda_launch2.png
+.. image:: figs/figs_jupyter_start/cmd_jupyter2.png
    :width: 50%
-   :alt: alternate launch cmmand prompt2
+   :alt: launch jupyter
    :align: center
-
-コマンドプロンプト内で「Jupyter-notebook」と入力し実行する。
 
 .. image:: figs/fig_python_install/Anaconda_launch3.png
    :width: 50%
@@ -80,7 +94,7 @@ Jupyer-notebookファイルの作成
 
 ``New`` ボタンから ``Python [root]`` を起動する。
 
-.. image:: figs/fig_python_install/Jupyter_new_note.png
+.. image:: figs/figs_jupyter_start/jupyter-start.png
    :width: 50%
    :alt: alternate jupyter launch
    :align: center
@@ -197,3 +211,11 @@ Jupyter-notebookの終了
 特に、ファイル一覧の画面で色がついたノートブックファイルは現在実行中のものを示している。
 
 Jupyter-notebookを完全に終了させるためには、コマンドプロンプドに戻り、Ctrl+Cを押す必要がある。
+
+
+
+課題の提出について
+===================
+
+本演習で課された課題は、特に指導教員からの指示がない限り、
+作成した jupyter-notebook ファイルで作成しそれを提出すること。
