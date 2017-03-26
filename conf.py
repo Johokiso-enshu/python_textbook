@@ -272,7 +272,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'python_textbook.tex', '情報基礎演習［工学部］ プログラミング',
-     '藤井 恵介、沖野 真也', 'manual'),
+     '京都大学工学部 物理工学科編', 'manual'),
 ]
 
 latex_docclass = {

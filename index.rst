@@ -11,6 +11,7 @@
   src/get_started.rst
   src/tutorial1.ipynb
   src/tutorial2.ipynb
+  src/tutorial3.ipynb
   src/application1.ipynb
   src/application2.ipynb
   src/application3.ipynb
