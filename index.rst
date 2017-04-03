@@ -15,4 +15,5 @@
   src/application1.ipynb
   src/application2.ipynb
   src/application3.ipynb
+  src/final_report.rst
   src/preparation.rst
