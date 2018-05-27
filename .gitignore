@@ -5,5 +5,6 @@ _templates/
 
 # ipython notebook checkpoint
 .ipynb_checkpoints/
+__pycache__
 
 *~

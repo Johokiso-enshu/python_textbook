@@ -31,21 +31,6 @@ Jupyterを起動するためにコマンドプロンプトを実行する。
    :align: center
 
 
-京都大学サテライト端末での起動
----------------------------
-
-京都大学のサテライト端末ではユーザがファイルを保存できる領域はMドライブに割り当てられている。
-コマンドプロンプトはCドライブから起動するので、Mドライブに移動する必要がある。
-以下のコマンドを入力し、Mドライブに移動すること。 :
-
-  cd /d M:
-
-.. image:: figs/figs_jupyter_start/cmd_jupyter.png
-   :width: 50%
-   :alt: change drive in windows cmd.
-   :align: center
-
-
 起動させたコマンドプロンプトで
 ``jupyter-notebook``
 を入力し実行するとJupyter-notebookのスタート画面が立ち上がる。
@@ -60,7 +45,7 @@ Jupyterを起動するためにコマンドプロンプトを実行する。
    :alt: alternate launch jupyter
    :align: center
 
-Jupyter-notebookの起動画面の一例。
+   Jupyter-notebookの起動画面の一例。
 
 
 Jupyer-notebookファイルの作成
