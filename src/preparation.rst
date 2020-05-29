@@ -27,7 +27,7 @@ Pythonにはバージョン2系統のものと3系統のものがあるが、
    :alt: anaconda download
    :align: center
 
-Anacondaのダウンロードページの様子。Windows用のPython3.5のものをダウンロードすること。
+Anacondaのダウンロードページの様子。Python3.* のもののうち各自のOSにあわせたものをダウンロードすること。
 
 
 Anacondaのインストール
