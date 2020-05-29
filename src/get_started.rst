@@ -1,6 +1,6 @@
-============
+=================
 対話型数値計算
-============
+=================
 
 目的
 ======
@@ -22,7 +22,17 @@ Jupyter-notebookの起動
 
 Jupyterを起動するためにコマンドプロンプトを実行する。
 
-いくつか方法があるが「Winキー」＋「R」を同時押しして「ファイル名から起動」を実行し、 ``cmd``
+いくつか方法があるが、スタートメニューの中に 
+Anaconda3 > Jupyter-notebook
+という項目があれば、それを実行することが簡単である。
+
+スタートメニューに Jupyter-notebook がない場合
+----------------------------------------------
+
+Windows
+~~~~~~~
+
+「Winキー」＋「R」を同時押しして「ファイル名から起動」を実行し、 ``cmd``
 を入力しEnterを押す方法が簡単である。
 
 .. image:: figs/fig_python_install/Anaconda_launch1.png
@@ -40,13 +50,21 @@ Jupyterを起動するためにコマンドプロンプトを実行する。
    :alt: launch jupyter
    :align: center
 
+.
+
 .. image:: figs/fig_python_install/Anaconda_launch3.png
    :width: 50%
    :alt: alternate launch jupyter
    :align: center
 
-   Jupyter-notebookの起動画面の一例。
+Jupyter-notebookの起動画面の一例。
 
+Mac OS
+~~~~~~~
+
+Terminal を起動し、 
+``jupyter-notebook``
+を入力し、実行する。
 
 Jupyer-notebookファイルの作成
 ==============================
