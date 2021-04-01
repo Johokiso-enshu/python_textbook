@@ -50,7 +50,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'python_textbook'
-copyright = '2017-2018, Keisuke Fujii'
+copyright = '2017-2021, Keisuke Fujii'
 author = 'Keisuke Fujii'
 
 # The version info for the project you're documenting, acts as replacement for

@@ -18,4 +18,5 @@
   src/application1.ipynb
   src/final_report.rst
   src/preparation.rst
+  src/google_colab.rst
   src/appendix.rst
