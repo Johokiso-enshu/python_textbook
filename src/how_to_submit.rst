@@ -16,7 +16,7 @@ Jupyter-notebookをhtmlファイルとしてエクスポートする
 -----------------------------------------------------------------------------------------
 
 .. image:: figs/fig_submit/converting_to_html.png
-   :width: 50%
+   :width: 70%
    :alt: Converting Jupyter-notebook to a html file
    :align: center
 
@@ -48,8 +48,8 @@ C:\Users\<ユーザー名>/johokiso/week1.ipynb
 Google は Google Colaboratoryというサービスを提供しており、Google drive上のJupyter-notebookファイルを閲覧・実行することができる。
 Google drive上にアップロードしたJupyter-notebookファイルをクリックすると、以下のような画面が表示される。
 
-.. image:: figs/fig_submit/open_in_colab.png
-   :width: 50%
+.. image:: figs/fig_submit/opening_in_colab.png
+   :width: 70%
    :alt: Opening a Jupyter-notebook file on Google drive
    :align: center
 
