@@ -10,6 +10,7 @@
 .. toctree::
 
   src/get_started.rst
+  src/how_to_submit.rst
   src/tutorial1.ipynb
   src/tutorial2.ipynb
   src/tutorial3.ipynb
