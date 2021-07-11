@@ -21,3 +21,4 @@
   src/preparation.rst
   src/google_colab.rst
   src/appendix.rst
+  src/earthquake.ipynb
