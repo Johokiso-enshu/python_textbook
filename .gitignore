@@ -7,4 +7,10 @@ _templates/
 .ipynb_checkpoints/
 __pycache__
 
+# python version used by pyenv-virtualenv
+.python-version
+
+# Mac
+.DS_Store
+
 *~
