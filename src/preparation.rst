@@ -3,7 +3,7 @@ AnacondaによるPython開発環境の構築（補足）
 
 ここではPythonの数値計算ライブラリ一式と、対話的実行環境であるJupyter-notebookを含むパッケージであるAnacondaのダウンロード・インストール方法について述べる。
 PythonやJupyterは現在は京都大学の教育用教PC端末で用いることができるが、
-各自のPCにもインストールしておくことを勧める。
+各自のPCにもインストールしておくと良い。
 
 本章ではWindowsへのインストール方法を述べるが、OS XやLinux等で用いる場合は
 次のページを参考にすること。 https://www.anaconda.com/products/individual
@@ -11,16 +11,12 @@ PythonやJupyterは現在は京都大学の教育用教PC端末で用いるこ�
 Anacondaのダウンロード
 -------------------------
 
-Anacondaは無料かつオープンソース（ソースコードが公開されていること）のソフトウェアであり
+Anacondaは無料（商用利用は無料ではないため注意）かつオープンソース（ソースコードが公開されていること）のソフトウェアであり、以下のページからダウンロードできる。
 
 https://www.anaconda.com/products/individual
 
-上記ページ下部から自由にダウンロードできる。
 
-Windowsにインストールする場合は、図\ref{fig:Anaconda_download}にあるように、Windows用のものをダウンロードする。
-Pythonにはバージョン2系統のものと3系統のものがあるが、
-最新のものである3系統のもの（図ではPython3.7）をダウンロードする。
-よほどPCが古くないかぎり64bitOSのはずなので，64bitの方を選ぶこと。
+下図に示すように、OSごとに異なるインストーラが提供されているため、Windows用のものをダウンロードする。
 
 .. image:: figs/fig_python_install/Anaconda_download.png
    :width: 50%

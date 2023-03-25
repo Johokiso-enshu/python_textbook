@@ -14,11 +14,11 @@
   src/tutorial1.ipynb
   src/tutorial2.ipynb
   src/tutorial3.ipynb
+  src/application1.ipynb
   src/application2.ipynb
   src/application3.ipynb
-  src/application1.ipynb
   src/final_report.rst
   src/preparation.rst
-  src/google_colab.rst
+  src/jupyter_notebook.rst
   src/appendix.rst
   src/earthquake.ipynb

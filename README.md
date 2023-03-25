@@ -7,6 +7,14 @@
 [http://python-textbook.readthedocs.io/en/latest/](http://python-textbook.readthedocs.io/en/latest/)
 
 
+<!-- pdf作成方法：
+1. git clone
+2. pip install -r requirements.txt
+3. make latexpdf (pandocが必要です)
+
+Python 3.9.14にて生成できることを確認（2023/03/25）
+ -->
+
 <!--　# 数値計算入門
 今後の実験データ解析や物理シミュレーションなど、数値計算を行うための基礎的知識を身につける。
 様々な科学技術分野で広く用いられ始めている **Python** というプログラミング言語を使用する。
