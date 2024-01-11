@@ -222,6 +222,7 @@ latex_elements = {
 %
 \let\OrigVerbatim\Verbatim
 \renewcommand{\OriginalVerbatim}[1][1]{\VerbatimGray[#1,frame=single, rulecolor=\color{gray}]}
+\usepackage{pxjahyper}
 """
     #%
     # \usepackage{datetime}
