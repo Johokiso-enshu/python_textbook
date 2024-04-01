@@ -14,7 +14,7 @@ python_textbook: http://python-textbook.readthedocs.io
 
 
 Google Colaboratory（通称Colab）では、ブラウザ上でPythonを記述、実行できる。
-以降ではColabの利用を想定して説明を行う。
+以降ではColabの利用を想定して説明を行う。なお、使用ブラウザはWindowsではEdge、MacではSafariを推奨する。
 
 Colab: https://colab.research.google.com
 
