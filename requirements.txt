@@ -4,4 +4,4 @@ sphinx==1.8.2
 setuptools<80
 Jinja2<3.1
 ipykernel
-nbsphinx
+nbsphinx<0.7
