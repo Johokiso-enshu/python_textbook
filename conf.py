@@ -13,8 +13,6 @@
 # All configuration values have a default; values that are commented out
 # serve to show the default.
 
-import os
-import sys
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -50,8 +48,8 @@ master_doc = "index"
 
 # General information about the project.
 project = "python_textbook"
-copyright = "2017-2023, Keisuke Fujii, Shota Kato"
-author = "Keisuke Fujii, Shota Kato"
+copyright = "2017-2026, Instructors of Instructors of Practice in Basics of Informatics and AI (Faculty of Engineering) [Engineering Science]"
+author = "Instructors of Practice in Basics of Informatics and AI (Faculty of Engineering) [Engineering Science]"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -223,12 +221,12 @@ latex_elements = {
 \let\OrigVerbatim\Verbatim
 \renewcommand{\OriginalVerbatim}[1][1]{\VerbatimGray[#1,frame=single, rulecolor=\color{gray}]}
 \usepackage{pxjahyper}
-"""
-    #%
+""",
+    # %
     # \usepackage{datetime}
     # \newdateformat{monthyeardate}{%
     #  \monthname[\THEMONTH], \THEYEAR}
-    #%
+    # %
     # \makeatletter
     # \renewcommand{\maketitle}{
     #  \ifsphinxpdfoutput
@@ -272,7 +270,7 @@ latex_documents = [
     (
         master_doc,
         "python_textbook.tex",
-        "情報基礎演習［工学部］ プログラミング",
+        "情報AI基礎演習［工学部］ プログラミング",
         "京都大学工学部 物理工学科編",
         "manual",
     ),

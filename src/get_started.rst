@@ -8,7 +8,7 @@
 本章の目的は、Pythonの対話型実行環境を用いてコンピュータによる数値計算を体感し、プログラミングの原理を実感することである。
 なお本教科書は、Webページとしても公開している。
 
-python_textbook: http://python-textbook.readthedocs.io
+python_textbook: https://johokiso-python-textbook.readthedocs.io
 
 小さな画面で見る場合はWebページの方が適しているだろう。
 

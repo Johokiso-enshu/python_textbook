@@ -1,11 +1,10 @@
 # Python textbook
 
-[![Documentation Status](https://readthedocs.org/projects/python-textbook/badge/?version=latest)](http://python-textbook.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/python-textbook/badge/?version=latest)](https://johokiso-python-textbook.readthedocs.io/en/latest/?badge=latest)
 
-情報基礎演習［工学部］のプログラミングパートで用いる教科書を入れておくリポジトリです。
+情報AI基礎演習［工学部］のプログラミングパートで用いる教科書を入れておくリポジトリです。
 こちらをご覧ください。
-[http://python-textbook.readthedocs.io/en/latest/](http://python-textbook.readthedocs.io/en/latest/)
-
+[https://johokiso-python-textbook.readthedocs.io](https://johokiso-python-textbook.readthedocs.io)
 
 <!-- pdf作成方法：
 1. git clone
